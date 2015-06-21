@@ -1,16 +1,19 @@
 h1 {
     text-align: center;
-    color: #660033;
-    font-family: "Verdana";
-    font-size: 300%;
-    text-shadow: 2px 2px #FFFFFF;
-    cursor: pointer;
+    color: #851C3B !important;
+}
+
+h2 {
+    color: #851C3B !important;
 }
 
 h3 {
     text-align: center;
     color: black;
-    font-family: "Verdana";
+}
+
+.jumbotron {
+    background-color: #bbb;
 }
 
 #contentBox {
